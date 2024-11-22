@@ -2,7 +2,7 @@
 # CsvModelTraining
  CsvModel is a framework witten for python to easly train models over a .csv file. These models are able to predict the result when given parameters and trainiing csv
 #  Importing
-To import this framework you need to have the pandas lib installed. Python code: import csvmodel
+To import this framework you need to have the pandas lib installed. Python code: import csvmodel you need to download this repository , unpack and drag the folder into your project
 # Training your model
 To train you write csvmodel.train.save(PATH TO YOUR .CSV FILE , NAME OF MODEL YOU ARE TRAINING) .
 Every trained model will be in the same directory as your main.py file 
